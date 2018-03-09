@@ -1,0 +1,9 @@
+help_pic_title: Search in imageboards
+help_pic_: |
+  <b>Search in imageboard (konachan)</b>
+  <b>pic</b> - <i>search NSFW (not safe for work) image</i>
+  <b>spic</b> - <i>safe search image or gif</i>
+  Information on existing tags, see in konachan.com
+
+  Example:
+  <b>pic armor -blood</b> - <i>delete all images with tags "blood"</i>

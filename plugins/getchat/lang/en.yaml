@@ -1,0 +1,5 @@
+help_randchat_title: Random chat
+help_randchat_text: |
+  <b>Get random chat</b>
+
+  /getchat - return random chat

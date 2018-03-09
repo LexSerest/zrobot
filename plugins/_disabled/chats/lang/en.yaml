@@ -1,0 +1,56 @@
+function_off: Function temporarily disabled. Sorry.
+
+chats:
+
+  all: all time
+  today: today
+  week: week
+  month: month
+
+  top: |
+    <b>Top 15</b> for <b>${day}</b>. Total <b>${count}</b> messages for ${day}.
+    <b>${nick}</b>, you <b>${user_count}</b> messages.
+    You're in <b>${place}th</b> place
+
+    ${stats}
+
+    Updated every 10 minutes.
+
+  rating: |
+    <b>Top 15</b> chats for <b>${day}</b>
+    ${txt_place}${txt_count}${stats}
+
+
+    Updated every 10 minutes.
+  changeName: "<b>${name}</b>, you old first name - <b>${oldName}</b>"
+
+
+  rating_place: <b>You chat</b> in <b>${place}</b>th place
+  rating_count: "Messages today - <b>${count}</b>."
+
+  topflood: <b>Top 15 flooders for today</b> (updated every 10 minutes).
+
+rndchat_error: Empty find :(
+randChat: |
+  <b>Random chat</b>
+  <b>${title}</b> @${username}
+  Count messages for today: <b>${today}</b>
+
+help_chats: Chats and statistics
+help_chats_text: |
+  /getchat - return random chat with username and count today messages.
+  /topflood - Top 15 global flooder
+
+  <b>Statistics in chats</b> (only group chats)
+  Сounts messages
+
+  Statistics are from the moment once you've added the bot into the chat.
+  /stats - displays statistics for all time
+  /today - statistics for today
+  /week - statistics for week
+  /month - statistics for month
+
+  <b>Top chats</b>
+  /top - top 15 chats for today
+  /topweek - top 15 chats for week
+  /topmonth - top 15 chats for month

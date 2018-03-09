@@ -1,0 +1,12 @@
+feedback:
+  ban: You in black list_plugins :(
+  thanks: Thanks for feedback
+  onreply: Reply to this message to send to the developer (Forwarding works once)
+
+help_feedback_title: Feedback
+help_feedback_text: |
+  <b>Feedback</b>
+
+  To send a message to the author of the robot, start the message with the "//" symbol
+  Example: <b>//Hi</b>
+

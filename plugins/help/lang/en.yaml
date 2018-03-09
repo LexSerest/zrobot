@@ -1,0 +1,14 @@
+help_chat: Send me in PM \"/help\" to learn about my commands
+
+start: 👋 Hello. I'm zRobot. See /help.
+help_main: Main
+help: |
+  👋 Hi! I'm <b>zRobot</b>. I have many useful functions 🌚
+
+  Press the button to learn details about the functions.
+  If you find any error, please inform the creator of this robot through the "feedback".
+
+  Current version: <b>${version}</b>
+
+  P.S. Bot does not respond to messages often than 700 milliseconds.
+  /set_ru - Set russian language (in group chat only admins)

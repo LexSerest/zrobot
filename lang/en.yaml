@@ -1,0 +1,22 @@
+function_off: Function deleted. Sorry
+
+donate: Donate
+
+bot:
+  is-not-admin: Please give me administration privileges.
+  access-denied: Not access.
+  only-group: Only group chat.
+  only-private: Only private.
+
+help_new_title: New in bot
+help_new_text: |
+  <b>New in bot</b>
+  Commands for admins
+
+  <b>Deleted</b>
+  Statistics - deleted forever
+  /s, /si, /g, /gi - deleted forever (out of money for Google)
+
+  <b>Temporarily disabled</b>
+  Rating
+  Speaks

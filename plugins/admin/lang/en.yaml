@@ -1,0 +1,31 @@
+admin:
+  plzreply: Please replay message user
+  ican: I can't do it.
+
+help_admin_title: Admins functions
+help_admin_text: |
+  <b>Admins functions</b>
+  <i>Only if bot have admin privileges</i>
+
+  <b>To use, reply to someone else's message</b>
+
+  <b>Time intervals, examples:</b>
+  40s = 40 seconds
+  10m30s = 1 minute 30 seconds
+  1h = 1 hour
+  3d = 3 days
+
+  If the time is less than 30 seconds and more than 365 days, ban/mute is given forever.
+  If you make a mistake in the date, the ban/mute is given forever.
+
+
+  <b>Commands:</b>
+  /ban - ban user (forever or on time)
+  /mute - be allowed to write a message to the user (forever or on time)
+  /unban - unban user
+  /unmute - allow to write messages to the user
+  /kick - ban user for 40 seconds
+
+  <b>Examples:</b>
+  /ban 3d1h30s - ban a user for 3 days 1 hour 30 seconds
+  /mute 1h - disallow to write a message to the user for 1 hour

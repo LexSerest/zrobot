@@ -1,0 +1,19 @@
+who_help_title: Who?!
+who_help_text: |
+  <b>Well, who does?</b>
+
+  /who_on - Enabled
+  /who_off - Disabled
+  /who - run lottery
+
+who_off: \"Who?\" disabled. /who_on - enable.
+who_on: \"Who?\" enabled
+who_not_find: No one is found, repeat in 10 minutes :(
+
+who: ${text} <b>${first_name}</b> ${username}
+who_1: Today cool the balls Hulk -
+who_2: Today little faggot -
+who_3: As if to say... Oh... Won today -
+who_4: Today, the lover of little girls -
+who_5: Today put a dick -
+who_6: Today a dog -

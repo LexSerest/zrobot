@@ -1,0 +1,14 @@
+google_empty: Nothing found or daily search limit :(
+google_limit: Google daily search limit :(
+google_type0: Safe search on
+google_type1: Safe search off
+google_error_img: Error load image. Sorry :(
+google_error: Error search. Sorry :(
+
+help_search: Search in internet
+help_search_text: |
+  <b>Search in internet</b>
+
+  /s "text" - Text search
+  /si "text" - Search pictures on text
+  /wiki "text" - Search on Wikipedia

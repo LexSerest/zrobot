@@ -1,0 +1,25 @@
+rating_empty: |
+  Rating empty
+
+rating_you: |
+  , you're in <b>${place}</b>th place
+
+rating: |
+  Top 15 rating. Updated every 10 minutes.
+  <b>${nick}</b>${rating_you}, you have <b>${user}</b> ratings
+
+  ${stats}
+
+
+rating_on: Rating enabled
+rating_off: Rating disabled
+rating_clear: Rating clear
+
+help_rating: Karma
+help_rating_text: |
+  <b>Karms/rating for users</b> (only group chats)
+
+  "+" and "-" reply to a message - increases/reduces rating
+  /rating - Top 15 users in chats
+  /rating_on и /rating_off - enabled/disabled rating (only admins)
+  /rating_clear - clear rating in chats (only admins)

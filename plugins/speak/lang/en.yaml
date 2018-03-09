@@ -1,0 +1,16 @@
+rnd_yes: Yes
+rnd_no: No
+
+speak_on: Bot speak enabled.
+speak_off: Bot speak disabled.
+
+speak_private: |
+  This enabled in private.
+
+help_speak_title: Talker
+help_speak_text: |
+    <b>Talker</b>
+    <i>Only for group chats</i>
+
+    <b>"Bot, [quesion]?"</b> - Random reply "Yes" or "No" to the question.
+    <b>/me text</b> - Writes in the third person. (old command in IRC)

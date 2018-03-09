@@ -1,0 +1,19 @@
+help_utility_title: Utility
+help_utility_text: |
+  <b>Utility</b>
+
+  /base64 text - encode text to base64
+  /base64de base64 - decode base64 to text
+  /qr text - encode text in QR code. Supports up to 100 characters.
+
+  <b>/r/text/new text</b> - Simple rplace text in reply msg.
+  <b>/s/find text/new text/</b> - Replace text in reply msg. Used RegExp JavaScript.
+  Example:
+
+  <i>Hi human</i>
+  /s/human/pig - replace "human" on "pig"
+
+base64_text: Use - /base64 text
+qr_text: Use - /qr you text
+regexp_error: NOOOOO... Something went wrong
+regexp_empty: Please reply to messages.

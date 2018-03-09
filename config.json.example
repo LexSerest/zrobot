@@ -1,0 +1,15 @@
+{
+	"token": "<token bot>",
+	"token_test": "<token test-bot>",
+	"admin_id": <you id>,
+    "url_db": "mongodb://localhost:27017/bot",
+	"kona": {
+		"limit": 30,
+		"use_gm": false,
+		"isLoadBigGif": true
+	},
+	
+	"webhook": {
+		"use": false
+	}
+}
