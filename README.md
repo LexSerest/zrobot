@@ -30,11 +30,12 @@ Telegram bot using mongoDB and [telegraf](https://github.com/telegraf/telegraf)
 
 ## For run
 ### mongoDB v3.4 is required to run 
-`cp config.json.example config.json && nano config.json`
-`npm install`
-`npm run test` - run for test (uses token_test)
-`npm run start` - run (uses token)
-
+```
+cp config.json.example config.json && nano config.json
+npm install
+npm run test # run for test (uses token_test)
+npm run start # run (uses token)
+```
 
 # TODO
 * Write docs
